@@ -9,6 +9,23 @@
 */
 window.PROJECTS = [
   {
+    nome: "Visualizador de Algoritmos",
+    descricao:
+      "Animação passo a passo de algoritmos de ordenação e de busca de caminhos (BFS, DFS, Dijkstra e A*), com fila de prioridade própria e 38 testes.",
+    tags: ["TypeScript", "Algoritmos", "Canvas", "Vitest"],
+    imagem: "img/projetos/visualizador.jpg",
+    site: "https://visualizador-algoritmos.vercel.app",
+    github: "https://github.com/sosoakemi/visualizador-algoritmos",
+  },
+  {
+    nome: "Kanban API",
+    descricao:
+      "API REST de tarefas em quadro Kanban, com login por JWT, SQLite, validação, arquitetura em camadas, testes automatizados e CI.",
+    tags: ["Node.js", "TypeScript", "SQL", "JWT"],
+    imagem: "img/projetos/kanban-api.jpg",
+    github: "https://github.com/sosoakemi/kanban-api",
+  },
+  {
     nome: "RoboTech",
     descricao:
       "Plataforma para quem está começando a programar, com conteúdos estruturados e exercícios interativos. Eleita o melhor Edutec do ensino médio.",
