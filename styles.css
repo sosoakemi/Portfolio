@@ -216,7 +216,7 @@ h1 {
   width: 100%;
   aspect-ratio: 4 / 5;
   object-fit: cover;
-  object-position: 66% 50%;
+  object-position: 50% 30%;
   border-radius: var(--radius);
 }
 
